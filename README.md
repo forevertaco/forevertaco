@@ -2,8 +2,9 @@
 - 👀 I’m a data analyst ...
 - 🌱 I’m looking to work and collaborate on projects ...
 - 💞️ I’m currently advancing my career in data science ...
--    I have knowledge in Excel, Power BI, Python and MY SQL
+- 📫 Check out my portfolio ....: https://judah-alonge-data-analyst.my.canva.site/
 - 📫 How to reach me ... email: alongejudah98@gmail.com
+  
 
 <!---
 forevertaco/forevertaco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
